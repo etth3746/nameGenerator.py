@@ -6,7 +6,7 @@ This code runs a game that generates a random first and last name for someone
 import random
 
 print("\nWelcome to the Name Generator Machine! We're here for all of your name generation needs!\n")
-print("Need a new name because you're running from the government? Maybe you got mad some Yakuza members angry, \n")
+print("Need a new name because you're running from the government? Maybe you made some Yakuza members angry, \n")
 print("or maybe you just need a new name for the fun of it, we have you covered\n")
 start = input("Would you like to start the machine?\n").upper()
 
